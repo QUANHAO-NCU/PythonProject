@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonProject$BaseMath.coverage" NAME="BaseMath Coverage Results" MODIFIED="1543060424430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$loop.coverage" NAME="loop Coverage Results" MODIFIED="1543153592270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$judge.coverage" NAME="judge Coverage Results" MODIFIED="1543060517837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$GUI_test01.coverage" NAME="GUI_test01 Coverage Results" MODIFIED="1549618757499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/PythonProject$bool.coverage" NAME="bool Coverage Results" MODIFIED="1543153599650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$funtion.coverage" NAME="funtion Coverage Results" MODIFIED="1543061623226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$print.coverage" NAME="print Coverage Results" MODIFIED="1543064179485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$oo.coverage" NAME="oo Coverage Results" MODIFIED="1543155832990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice_git" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_OOP/Practice16_类和实例.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1Os26I7hyAgqR3dcQ57Wzx5igqz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice_git/Practice/Liaoxuefeng_OOP" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PythonProject" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PythonProject" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice_git\Practice\Liaoxuefeng_OOP" />
+      <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice_git\Practice" />
+      <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice_git\Practice\Liaoxuefeng_Hyper" />
+      <recent name="H:\PythonProject\Practice_module" />
+      <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.1036">
+    <configuration name="1036" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PTA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PTA/1036.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Practice15_模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper/Practice15_模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Practice15_模块3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper/Practice15_模块3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Practice16_类和实例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_OOP/Practice16_类和实例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python-输入输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice_git" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice_git/python-输入输出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Practice15_模块" />
+      <item itemvalue="Python.Practice15_模块3" />
+      <item itemvalue="Python.Practice16_类和实例" />
+      <item itemvalue="Python.python-输入输出" />
+      <item itemvalue="Python.1036" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1036" />
+        <item itemvalue="Python.python-输入输出" />
+        <item itemvalue="Python.Practice16_类和实例" />
+        <item itemvalue="Python.Practice15_模块3" />
+        <item itemvalue="Python.Practice15_模块" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="" />
+      <created>1542026308451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542026308451</updated>
+      <workItem from="1564751810958" duration="2576000" />
+      <workItem from="1564813061099" duration="2566000" />
+      <workItem from="1564815653986" duration="925000" />
+      <workItem from="1564817162138" duration="1000000" />
+      <workItem from="1564881728472" duration="5828000" />
+      <workItem from="1567073902828" duration="1281000" />
+      <workItem from="1567150604368" duration="364000" />
+      <workItem from="1567224087574" duration="17000" />
+      <workItem from="1567257876850" duration="2568000" />
+      <workItem from="1567298051611" duration="886000" />
+      <workItem from="1567336349889" duration="1000" />
+      <workItem from="1567342027269" duration="43000" />
+      <workItem from="1567342111245" duration="5226000" />
+      <workItem from="1567424183529" duration="5190000" />
+      <workItem from="1567432950911" duration="931000" />
+      <workItem from="1567554141413" duration="605000" />
+      <workItem from="1567598530092" duration="3953000" />
+      <workItem from="1567603628938" duration="18000" />
+      <workItem from="1567689360927" duration="2130000" />
+      <workItem from="1567854481736" duration="138000" />
+      <workItem from="1567859279668" duration="599000" />
+      <workItem from="1567863961494" duration="4055000" />
+      <workItem from="1567907814682" duration="1114000" />
+      <workItem from="1567909553814" duration="1117000" />
+      <workItem from="1567911167725" duration="2047000" />
+      <workItem from="1567940610822" duration="8000" />
+      <workItem from="1567944845247" duration="2328000" />
+      <workItem from="1567947599271" duration="3659000" />
+      <workItem from="1568033064802" duration="4765000" />
+      <workItem from="1568039176717" duration="22000" />
+      <workItem from="1568122313965" duration="3000" />
+      <workItem from="1568200969590" duration="3000" />
+      <workItem from="1568212476506" duration="3000" />
+      <workItem from="1568371121429" duration="42000" />
+      <workItem from="1568502292333" duration="1458000" />
+      <workItem from="1568503791337" duration="18000" />
+      <workItem from="1568504017333" duration="5264000" />
+      <workItem from="1568692208002" duration="24000" />
+      <workItem from="1568692268185" duration="149000" />
+      <workItem from="1570168765425" duration="7118000" />
+      <workItem from="1570370230143" duration="10000" />
+      <workItem from="1571320744807" duration="530000" />
+      <workItem from="1571322023684" duration="423000" />
+    </task>
+    <task id="LOCAL-00001" summary="update，pratice8">
+      <created>1567346006501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567346006501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update，pratice9">
+      <created>1567429292774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567429292774</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update，pratice9">
+      <created>1567429377592</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567429377592</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update，pratice10">
+      <created>1567601812748</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567601812748</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update，pratice11,返回函数">
+      <created>1567867587633</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567867587634</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update，pratice13,装饰器">
+      <created>1567913217111</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567913217111</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update，pratice14,偏函数">
+      <created>1567947580868</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567947580869</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update，pratice14,偏函数">
+      <created>1567948767512</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567948767512</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update，pratice15,模块">
+      <created>1568036431057</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568036431057</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update，pratice15,模块2">
+      <created>1568038595291</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568038595291</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update，pratice15,模块3">
+      <created>1568503430029</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568503430029</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update，pratice16,OOP">
+      <created>1568503743111</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568503743111</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update，pratice15,模块3">
+      <created>1568504182983</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568504182983</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update，pratice16,类和实例">
+      <created>1568509056261</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568509056261</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update，pratice8" />
+    <MESSAGE value="update，pratice9" />
+    <MESSAGE value="update，pratice10" />
+    <MESSAGE value="update，pratice11,返回函数" />
+    <MESSAGE value="update，pratice13,装饰器" />
+    <MESSAGE value="update，pratice14,偏函数" />
+    <MESSAGE value="update，pratice15,模块" />
+    <MESSAGE value="update，pratice15,模块2" />
+    <MESSAGE value="update，pratice16,OOP" />
+    <MESSAGE value="update，pratice15,模块3" />
+    <MESSAGE value="update，pratice16,类和实例" />
+    <option name="LAST_COMMIT_MESSAGE" value="update，pratice16,类和实例" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$qzCrawler.coverage" NAME="qzCrawler Coverage Results" MODIFIED="1564817514167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Tencent Files/1091637825/FileRecv/MobileFile" />
+    <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1567867956603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
+    <SUITE FILE_PATH="coverage/PythonProject$Practice15_3.coverage" NAME="Practice15_模块3 Coverage Results" MODIFIED="1568503313981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
+    <SUITE FILE_PATH="coverage/PythonProject$0.coverage" NAME="0 Coverage Results" MODIFIED="1564881848020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonProject$Practice11_.coverage" NAME="Practice11_返回函数 Coverage Results" MODIFIED="1567866960186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
+    <SUITE FILE_PATH="coverage/PythonProject$Practice15_2.coverage" NAME="Practice15_模块2 Coverage Results" MODIFIED="1568038967306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
+    <SUITE FILE_PATH="coverage/PythonProject$Practice9_filter.coverage" NAME="Practice9_filter Coverage Results" MODIFIED="1567426408928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
+    <SUITE FILE_PATH="coverage/PythonProject$1036.coverage" NAME="1036 Coverage Results" MODIFIED="1570175158899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PTA" />
+    <SUITE FILE_PATH="coverage/PythonProject$myTranslator.coverage" NAME="myTranslator Coverage Results" MODIFIED="1564887693656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summerHomework" />
+  </component>
+</project>
