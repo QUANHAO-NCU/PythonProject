@@ -29,9 +29,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_OOP/Practice16_类和实例.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectId" id="1Os26I7hyAgqR3dcQ57Wzx5igqz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,14 +56,16 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice_git\Practice\Liaoxuefeng_OOP" />
       <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice_git\Practice" />
       <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice_git\Practice\Liaoxuefeng_Hyper" />
       <recent name="H:\PythonProject\Practice_module" />
+      <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\python-learningNotes\Tkinter" />
+      <recent name="D:\PythonProject\python-learningNotes\Python" />
       <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice" />
     </key>
   </component>
@@ -285,6 +284,7 @@
       <workItem from="1570370230143" duration="10000" />
       <workItem from="1571320744807" duration="530000" />
       <workItem from="1571322023684" duration="423000" />
+      <workItem from="1571324572580" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="update，pratice8">
       <created>1567346006501</created>
@@ -384,7 +384,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568509056261</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="python 程序设计课程作业">
+      <created>1571324780738</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1571324780738</updated>
+    </task>
+    <task id="LOCAL-00016" summary="python程序设计课程程序以及主要库的练习">
+      <created>1571324845066</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571324845066</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,7 +429,9 @@
     <MESSAGE value="update，pratice16,OOP" />
     <MESSAGE value="update，pratice15,模块3" />
     <MESSAGE value="update，pratice16,类和实例" />
-    <option name="LAST_COMMIT_MESSAGE" value="update，pratice16,类和实例" />
+    <MESSAGE value="python 程序设计课程作业" />
+    <MESSAGE value="python程序设计课程程序以及主要库的练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="python程序设计课程程序以及主要库的练习" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$Practice11_.coverage" NAME="Practice11_返回函数 Coverage Results" MODIFIED="1567866960186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
