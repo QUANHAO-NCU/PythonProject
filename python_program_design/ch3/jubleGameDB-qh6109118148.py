@@ -25,10 +25,10 @@ conn = sqlite3.connect('WordBook.db')  # 连接到数据库
 cursor = conn.cursor()  # 创建游标
 try:
     conn.execute(
-    'create table WordBook (id varchar (20) primary key,word varchar(20),chineseMean varchar (100))')  # 创建单词表,id为主键
+    'create table if not exists WordBook (id varchar (20) primary key,word varchar(20),chineseMean varchar (100))')  # 创建单词表,id为主键
     conn.executemany('insert into WordBook (id,word,chineseMean) values(?,?,?)', wordlist)  # 输入单词数据,数据写在一个列表中
 except:
-    pass#数据库已存在则继续程序
+    pass#数据库已存在 则继续程序
 conn.commit()
 cursor.close()
 conn.close()  # 关闭游标指针
@@ -52,7 +52,7 @@ def end(end_flag):
 
 while (True):
     get_or_word = list(WB_cursor.execute('select id,word,chineseMean from WordBook where id = ?',\
-                                         (str(random.randint(1,maxLines+1)),)))[0][1]
+                                         (str(random.randint(1,maxLines)),)))[0][1]
     random_word = get_or_word
     # 从单词表数据库中选取源单词
     out_of_order_word = ''
