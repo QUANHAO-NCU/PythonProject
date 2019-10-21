@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="python程序设计课程程序以及主要库的练习">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learningNotes/Tkinter/Tkinter_sayHello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learningNotes/Tkinter/Tkinter_应用程序类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learningNotes/Tkinter/Tkinter_窗口布局_grid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learningNotes/Tkinter/Tkinter_窗口布局_pack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learningNotes/Tkinter/Tkinter_窗口布局_place.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learningNotes/Tkinter/test_image/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learningNotes/Tkinter/test_image/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learningNotes/Tkinter/test_image/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch4/实验2GUI智力问答.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/zip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python-learningNotes/Tkinter/TKinter_事件处理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-learningNotes/Tkinter/Tinkter_Buttons.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-learningNotes/Tkinter/Tkinter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_program_design/ch3/WordBook.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_program_design/ch3/jubleGameWithDataBase-qh6109118148.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_program_design/ch3/jubleGameDB-qh6109118148.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,23 +33,7 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="WordBook.db" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="WordBook.db" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="WordBook.db" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -96,7 +64,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -133,7 +101,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Tkinter_窗口布局_place">
+  <component name="RunManager" selected="Python.TKinter_事件处理">
+    <configuration name="TKinter_事件处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learningNotes/Tkinter/TKinter_事件处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Tkinter_应用程序类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,6 +166,9 @@
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -198,6 +188,9 @@
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -260,15 +253,15 @@
     <list>
       <item itemvalue="Python.Tkinter_sayHello" />
       <item itemvalue="Python.Tkinter_应用程序类" />
-      <item itemvalue="Python.Tkinter_窗口布局" />
       <item itemvalue="Python.Tkinter_窗口布局_grid" />
       <item itemvalue="Python.Tkinter_窗口布局_place" />
+      <item itemvalue="Python.TKinter_事件处理" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TKinter_事件处理" />
         <item itemvalue="Python.Tkinter_窗口布局_place" />
         <item itemvalue="Python.Tkinter_窗口布局_grid" />
-        <item itemvalue="Python.Tkinter_窗口布局" />
         <item itemvalue="Python.Tkinter_应用程序类" />
         <item itemvalue="Python.Tkinter_sayHello" />
       </list>
@@ -348,7 +341,13 @@
       <workItem from="1571377452918" duration="2772000" />
       <workItem from="1571401903474" duration="4453000" />
       <workItem from="1571406430983" duration="5710000" />
-      <workItem from="1571443051463" duration="4616000" />
+      <workItem from="1571443051463" duration="5118000" />
+      <workItem from="1571476695973" duration="9000" />
+      <workItem from="1571477112107" duration="154000" />
+      <workItem from="1571496024078" duration="558000" />
+      <workItem from="1571527972268" duration="727000" />
+      <workItem from="1571537681931" duration="60000" />
+      <workItem from="1571613775666" duration="2706000" />
     </task>
     <task id="LOCAL-00001" summary="update，pratice8">
       <created>1567346006501</created>
@@ -462,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571324845066</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2019-10-19">
+      <created>1571448043155</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571448043155</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,7 +501,8 @@
     <MESSAGE value="update，pratice16,类和实例" />
     <MESSAGE value="python 程序设计课程作业" />
     <MESSAGE value="python程序设计课程程序以及主要库的练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="python程序设计课程程序以及主要库的练习" />
+    <MESSAGE value="2019-10-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-10-19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -517,10 +524,11 @@
     <SUITE FILE_PATH="coverage/PythonProject$Practice15_2.coverage" NAME="Practice15_模块2 Coverage Results" MODIFIED="1568038967306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
     <SUITE FILE_PATH="coverage/PythonProject$Tkinter__grid.coverage" NAME="Tkinter_窗口布局_grid Coverage Results" MODIFIED="1571447777368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1567867956603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
+    <SUITE FILE_PATH="coverage/PythonProject$TKinter_.coverage" NAME="TKinter_事件处理 Coverage Results" MODIFIED="1571616404725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonProject$Practice11_.coverage" NAME="Practice11_返回函数 Coverage Results" MODIFIED="1567866960186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
     <SUITE FILE_PATH="coverage/PythonProject$Tkinter_.coverage" NAME="Tkinter_窗口布局 Coverage Results" MODIFIED="1571445709470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonProject$qzCrawler.coverage" NAME="qzCrawler Coverage Results" MODIFIED="1564817514167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Tencent Files/1091637825/FileRecv/MobileFile" />
-    <SUITE FILE_PATH="coverage/PythonProject$Tkinter__place.coverage" NAME="Tkinter_窗口布局_place Coverage Results" MODIFIED="1571447958514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Tkinter" />
+    <SUITE FILE_PATH="coverage/PythonProject$Tkinter__place.coverage" NAME="Tkinter_窗口布局_place Coverage Results" MODIFIED="1571477132471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonProject$myTranslator.coverage" NAME="myTranslator Coverage Results" MODIFIED="1564887693656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summerHomework" />
     <SUITE FILE_PATH="coverage/PythonProject$Practice15_3.coverage" NAME="Practice15_模块3 Coverage Results" MODIFIED="1568503313981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
   </component>
