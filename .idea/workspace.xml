@@ -43,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1Os26I7hyAgqR3dcQ57Wzx5igqz" />
@@ -53,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python-learningNotes/Tkinter" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -145,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice15_模块3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tkinter_窗口布局" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +158,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper/Practice15_模块3.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonProject\python-learningNotes\Tkinter\Tkinter_窗口布局_pack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +175,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Practice/Liaoxuefeng_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -355,6 +355,7 @@
       <workItem from="1571537681931" duration="60000" />
       <workItem from="1571613775666" duration="4220000" />
       <workItem from="1571716750301" duration="1146000" />
+      <workItem from="1572443405020" duration="492000" />
     </task>
     <task id="LOCAL-00001" summary="update，pratice8">
       <created>1567346006501</created>
