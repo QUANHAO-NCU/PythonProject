@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python-learningNotes/Tkinter/Tkinter_Button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch5/BaiduTransAPI-forPython3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch5/MiniTranslator-qh6110116148.py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch5/迷你翻译器-1+英译中.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -383,6 +375,7 @@
       <workItem from="1573177691721" duration="1865000" />
       <workItem from="1573182092046" duration="2786000" />
       <workItem from="1573185085665" duration="3685000" />
+      <workItem from="1573212831709" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="update，pratice8">
       <created>1567346006501</created>
@@ -524,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572927020341</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2019-11-8&#10;Python程序设计课程，实验3，翻译器">
+      <created>1573212907825</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1573212907825</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +561,8 @@
     <MESSAGE value="2019-10-19" />
     <MESSAGE value="2019-10-21" />
     <MESSAGE value="2019-11-5&#10;Python程序设计课程，实验2，tkinter图像化界面" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-11-5&#10;Python程序设计课程，实验2，tkinter图像化界面" />
+    <MESSAGE value="2019-11-8&#10;Python程序设计课程，实验3，翻译器" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-11-8&#10;Python程序设计课程，实验3，翻译器" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$2GUI.coverage" NAME="实验2GUI智力问答 Coverage Results" MODIFIED="1572654355549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_program_design/ch4" />
