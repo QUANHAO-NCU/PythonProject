@@ -25,7 +25,7 @@ conn = sqlite3.connect('WordBook.db')  # 连接到数据库
 cursor = conn.cursor()  # 创建游标
 try:
     conn.execute(
-    'create table if not exists WordBook (id varchar (20) primary key,word varchar(20),chineseMean varchar (100))')  # 创建单词表,id为主键
+    'create table if not exists WordBook (id varchar(20) primary key,word varchar(20),chineseMean varchar(100))')  # 创建单词表,id为主键
     conn.executemany('insert into WordBook (id,word,chineseMean) values(?,?,?)', wordlist)  # 输入单词数据,数据写在一个列表中
 except:
     pass#数据库已存在 则继续程序
