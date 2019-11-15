@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="" />
+    <list default="true" id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -118,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Translator">
+  <component name="RunManager" selected="Python.mindGame-qh6110116148">
     <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,9 +263,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mindGame-qh6110116148" />
         <item itemvalue="Python.Translator" />
         <item itemvalue="Python.3" />
-        <item itemvalue="Python.mindGame-qh6110116148" />
         <item itemvalue="Python.jubleGameDB-qh6109118148" />
         <item itemvalue="Python.Tkinter_Button" />
       </list>
@@ -376,6 +379,10 @@
       <workItem from="1573182092046" duration="2786000" />
       <workItem from="1573185085665" duration="3685000" />
       <workItem from="1573212831709" duration="90000" />
+      <workItem from="1573703750455" duration="16000" />
+      <workItem from="1573789467831" duration="192000" />
+      <workItem from="1573793968776" duration="517000" />
+      <workItem from="1573796213057" duration="183000" />
     </task>
     <task id="LOCAL-00001" summary="update，pratice8">
       <created>1567346006501</created>
