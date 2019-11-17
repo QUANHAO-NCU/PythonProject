@@ -207,7 +207,7 @@ def game_judge():
 
 
 def ready_re_game():
-    time.sleep(2)
+    time.sleep(0.2)
     Robot_Frame.pack_forget()
     Program_Frame.pack_forget()
     Player_Frame.pack_forget()

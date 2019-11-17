@@ -2,70 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/21points-Black_Jack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/icon_pic/哲学扑克.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/icon_pic/哲学男.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/icon_pic/哲学邀请.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/icon_pic/柴犬.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/icon_pic/滑稽.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/icon_pic/鹦鹉兄弟.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 J.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 K.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/方块 Q.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 J.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 K.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/梅花 Q.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 J.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 K.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/红桃 Q.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/背面.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 J.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 K.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/poker_pic/黑桃 Q.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/ch6/游戏说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Exam_Test1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_program_design/ch6/21points-Black_Jack.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_program_design/ch6/21points-Black_Jack.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -299,6 +237,9 @@
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -448,7 +389,8 @@
       <workItem from="1573860476051" duration="22637000" />
       <workItem from="1573905087329" duration="9152000" />
       <workItem from="1573914570725" duration="2156000" />
-      <workItem from="1573949400629" duration="10628000" />
+      <workItem from="1573949400629" duration="11532000" />
+      <workItem from="1573961229735" duration="103000" />
     </task>
     <task id="LOCAL-00001" summary="update，pratice8">
       <created>1567346006501</created>
@@ -638,15 +580,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="2019-11-8&#10;Python程序设计课程，实验3，翻译器" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python_program_design/ch6/21points-Black_Jack.py</url>
-          <line>176</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="player_card_list" />
@@ -678,6 +611,6 @@
     <SUITE FILE_PATH="coverage/PythonProject$Tkinter__place.coverage" NAME="Tkinter_窗口布局_place Coverage Results" MODIFIED="1571477132471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonProject$Exam_Test.coverage" NAME="Exam_Test Coverage Results" MODIFIED="1573797961449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/PythonProject$myTranslator.coverage" NAME="myTranslator Coverage Results" MODIFIED="1564887693656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summerHomework" />
-    <SUITE FILE_PATH="coverage/PythonProject$21points_Black_Jack.coverage" NAME="21points-Black_Jack Coverage Results" MODIFIED="1573958922226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_program_design/ch6" />
+    <SUITE FILE_PATH="coverage/PythonProject$21points_Black_Jack.coverage" NAME="21points-Black_Jack Coverage Results" MODIFIED="1573961242164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_program_design/ch6" />
   </component>
 </project>
