@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_program_design/Fin_Exam/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/Fin_Exam/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/Fin_Exam/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/Fin_Exam/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/Fin_Exam/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_program_design/Fin_Exam/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Practice/Liaoxuefeng_OOP/Practice20_获取对象信息.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/10.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2">
+  <component name="RunManager" selected="Python.Practice20_获取对象信息">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,28 +149,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_program_design/Fin_Exam/2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_program_design/Fin_Exam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_program_design/Fin_Exam/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,6 +201,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Practice20_获取对象信息" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Practice/Liaoxuefeng_OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Practice/Liaoxuefeng_OOP/Practice20_获取对象信息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,18 +244,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.1" />
-      <item itemvalue="Python.3" />
       <item itemvalue="Python.4" />
       <item itemvalue="Python.2" />
       <item itemvalue="Python.5" />
+      <item itemvalue="Python.Practice20_获取对象信息" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Practice20_获取对象信息" />
         <item itemvalue="Python.2" />
         <item itemvalue="Python.5" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.4" />
-        <item itemvalue="Python.3" />
       </list>
     </recent_temporary>
   </component>
@@ -401,6 +392,7 @@
       <workItem from="1577423667011" duration="6552000" />
       <workItem from="1578461229879" duration="667000" />
       <workItem from="1578536856748" duration="24000" />
+      <workItem from="1578570308624" duration="5646000" />
     </task>
     <task id="LOCAL-00001" summary="update，pratice8">
       <created>1567346006501</created>
