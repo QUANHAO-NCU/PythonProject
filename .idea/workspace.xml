@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5749d60-2318-4cc4-af5e-012294772caf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Practice/Liaoxuefeng_OOP/Practice20_获取对象信息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_practice/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_practice/word_cut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_practice/三国演义.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learningNotes/Python/File.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-learningNotes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python-learningNotes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-learningNotes/.idea/python-learningNotes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/python-learningNotes/.idea/python-learningNotes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-learningNotes/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python-learningNotes/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-learningNotes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python-learningNotes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-learningNotes/Python/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-learningNotes/Python/python.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +63,7 @@
       <list>
         <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -61,10 +77,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_program_design/ch7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Environment/Scripts/python.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,19 +102,19 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\PythonProject\python_program_design\ch7" />
-      <recent name="D:\PythonProject\python_program_design\ch6\icon_pic" />
-      <recent name="D:\PythonProject\python_program_design\ch6\poker_pic" />
-      <recent name="D:\PythonProject\python_program_design\ch5" />
-      <recent name="D:\PythonProject\python_program_design\ch4" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PythonProject\python_program_design\ch6\icon_pic" />
       <recent name="D:\PythonProject\python-learningNotes\Tkinter\test_image" />
       <recent name="D:\PythonProject\python-learningNotes\Tkinter" />
       <recent name="D:\PythonProject\python-learningNotes\Python" />
       <recent name="H:\PythonProject\python-learningNotes\Liaoxuefeng_Practice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\NLP_practice" />
+      <recent name="D:\PythonProject\python_program_design\ch7" />
+      <recent name="D:\PythonProject\python_program_design\ch6\icon_pic" />
+      <recent name="D:\PythonProject\python_program_design\ch6\poker_pic" />
+      <recent name="D:\PythonProject\python_program_design\ch5" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -112,8 +129,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Practice20_获取对象信息">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.word_cut">
+    <configuration name="21points-Black_Jack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,78 +138,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_program_design/Fin_Exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_program_design/ch6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_program_design/Fin_Exam/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_program_design/Fin_Exam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_program_design/Fin_Exam/2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_program_design/Fin_Exam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_program_design/Fin_Exam/4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_program_design/Fin_Exam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_program_design/Fin_Exam/5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_program_design/ch6/21points-Black_Jack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,17 +152,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice20_获取对象信息" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Fashion MNIST" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Practice/Liaoxuefeng_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_program_design/ch8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Practice/Liaoxuefeng_OOP/Practice20_获取对象信息.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_program_design/ch8/Fashion MNIST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,20 +196,86 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="faceDetect-qh6109118148" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_program_design/ch7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_program_design/ch7/faceDetect-qh6109118148.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learningNotes/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learningNotes/Python/python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word_cut" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP_practice/word_cut.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1" />
-      <item itemvalue="Python.4" />
-      <item itemvalue="Python.2" />
-      <item itemvalue="Python.5" />
-      <item itemvalue="Python.Practice20_获取对象信息" />
+      <item itemvalue="Python.faceDetect-qh6109118148" />
+      <item itemvalue="Python.21points-Black_Jack" />
+      <item itemvalue="Python.Fashion MNIST" />
+      <item itemvalue="Python.python" />
+      <item itemvalue="Python.word_cut" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Practice20_获取对象信息" />
-        <item itemvalue="Python.2" />
-        <item itemvalue="Python.5" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.4" />
+        <item itemvalue="Python.word_cut" />
+        <item itemvalue="Python.python" />
+        <item itemvalue="Python.Fashion MNIST" />
+        <item itemvalue="Python.21points-Black_Jack" />
+        <item itemvalue="Python.faceDetect-qh6109118148" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +412,28 @@
       <workItem from="1577423667011" duration="6552000" />
       <workItem from="1578461229879" duration="667000" />
       <workItem from="1578536856748" duration="24000" />
-      <workItem from="1578570308624" duration="5646000" />
+      <workItem from="1578570308624" duration="5749000" />
+      <workItem from="1578702744635" duration="589000" />
+      <workItem from="1578710571409" duration="128000" />
+      <workItem from="1578710706906" duration="1629000" />
+      <workItem from="1578714207671" duration="471000" />
+      <workItem from="1578718440890" duration="4000" />
+      <workItem from="1578719136390" duration="244000" />
+      <workItem from="1578889000970" duration="214000" />
+      <workItem from="1578889293017" duration="1683000" />
+      <workItem from="1578980994078" duration="1193000" />
+      <workItem from="1579082732115" duration="9243000" />
+      <workItem from="1579097226797" duration="1809000" />
+      <workItem from="1579136445469" duration="1845000" />
+      <workItem from="1579139188445" duration="90000" />
+      <workItem from="1579139417125" duration="638000" />
+      <workItem from="1579171008278" duration="490000" />
+      <workItem from="1579171702799" duration="639000" />
+      <workItem from="1579173469479" duration="909000" />
+      <workItem from="1579176292724" duration="2052000" />
+      <workItem from="1579231750188" duration="712000" />
+      <workItem from="1579235311299" duration="4423000" />
+      <workItem from="1579343087136" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="update，pratice8">
       <created>1567346006501</created>
@@ -541,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573212907825</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2020-1-9 &#10;Practice20 获取对象的信息&#10;利用getattr，hasattr，setattr可以动态的修改某一个对象的属性">
+      <created>1578576396991</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1578576396991</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,7 +634,15 @@
     <MESSAGE value="2019-10-21" />
     <MESSAGE value="2019-11-5&#10;Python程序设计课程，实验2，tkinter图像化界面" />
     <MESSAGE value="2019-11-8&#10;Python程序设计课程，实验3，翻译器" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-11-8&#10;Python程序设计课程，实验3，翻译器" />
+    <MESSAGE value="2020-1-9 &#10;Practice20 获取对象的信息&#10;利用getattr，hasattr，setattr可以动态的修改某一个对象的属性" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-1-9 &#10;Practice20 获取对象的信息&#10;利用getattr，hasattr，setattr可以动态的修改某一个对象的属性" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="counts" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$10.coverage" NAME="10 Coverage Results" MODIFIED="1577367539406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
@@ -596,7 +652,9 @@
     <SUITE FILE_PATH="coverage/PythonProject$Practice9_filter.coverage" NAME="Practice9_filter Coverage Results" MODIFIED="1567426408928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
     <SUITE FILE_PATH="coverage/PythonProject$Tkinter__grid.coverage" NAME="Tkinter_窗口布局_grid Coverage Results" MODIFIED="1571447777368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1567867956603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Liaoxuefeng_Hyper" />
+    <SUITE FILE_PATH="coverage/PythonProject$word_cut.coverage" NAME="word_cut Coverage Results" MODIFIED="1579098834421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP_practice" />
     <SUITE FILE_PATH="coverage/PythonProject$7.coverage" NAME="7 Coverage Results" MODIFIED="1574998809565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonProject$python.coverage" NAME="python Coverage Results" MODIFIED="1579082792574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Python" />
     <SUITE FILE_PATH="coverage/PythonProject$TKinter_.coverage" NAME="TKinter_事件处理 Coverage Results" MODIFIED="1571616404725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonProject$Practice19_.coverage" NAME="Practice19_生成器 Coverage Results" MODIFIED="1577360236348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Practice/Liaoxuefeng_OOP" />
     <SUITE FILE_PATH="coverage/PythonProject$4.coverage" NAME="4 Coverage Results" MODIFIED="1577425985897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_program_design/Fin_Exam" />
@@ -607,6 +665,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$Exam_Test.coverage" NAME="Exam_Test Coverage Results" MODIFIED="1573797961449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/PythonProject$myTranslator.coverage" NAME="myTranslator Coverage Results" MODIFIED="1564887693656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summerHomework" />
     <SUITE FILE_PATH="coverage/PythonProject$5.coverage" NAME="5 Coverage Results" MODIFIED="1574512347364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonProject$Practice20_.coverage" NAME="Practice20_获取对象信息 Coverage Results" MODIFIED="1578710725862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes/Liaoxuefeng_Practice/Practice/Liaoxuefeng_OOP" />
     <SUITE FILE_PATH="coverage/PythonProject$21points_Black_Jack.coverage" NAME="21points-Black_Jack Coverage Results" MODIFIED="1574513827256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_program_design/ch6" />
     <SUITE FILE_PATH="coverage/PythonProject$9.coverage" NAME="9 Coverage Results" MODIFIED="1576203853045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/PythonProject$Fashion_MNIST.coverage" NAME="Fashion MNIST Coverage Results" MODIFIED="1575006277595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_program_design/ch8" />
