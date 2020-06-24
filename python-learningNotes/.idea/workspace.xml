@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d74f27d-e00d-4fa3-a0fd-56d53d3bd03a" name="Default Changelist" comment="" />
+    <list default="true" id="2d74f27d-e00d-4fa3-a0fd-56d53d3bd03a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-learningNotes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-learningNotes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Liaoxuefeng_Practice_git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1RMJPAgItziv4B1UOOHPGQ3B4bD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -128,6 +134,7 @@
       <workItem from="1561811948873" duration="29000" />
       <workItem from="1562303771546" duration="625000" />
       <workItem from="1569471007542" duration="657000" />
+      <workItem from="1578713978845" duration="208000" />
     </task>
     <servers />
   </component>
@@ -139,14 +146,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_learningNotes$Practice6_.coverage" NAME="Practice6_递归函数 Coverage Results" MODIFIED="1562304153805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Liaoxuefeng_Practice/Liaoxuefeng_Practice" />
     <SUITE FILE_PATH="coverage/python_learningNotes$python_.coverage" NAME="python-输入输出 Coverage Results" MODIFIED="1562303862090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-learningNotes" />
+    <SUITE FILE_PATH="coverage/python_learningNotes$Practice6_.coverage" NAME="Practice6_递归函数 Coverage Results" MODIFIED="1562304153805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Liaoxuefeng_Practice/Liaoxuefeng_Practice" />
   </component>
 </project>
