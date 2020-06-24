@@ -1,4 +1,4 @@
-+62 # 百度通用翻译API,不包含词典、tts语音合成等资源，如有相关需求请联系translate_api@baidu.com
+# 百度通用翻译API,不包含词典、tts语音合成等资源，如有相关需求请联系translate_api@baidu.com
 # coding=utf-8
 import hashlib
 import urllib
